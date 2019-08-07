@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suitepomtestng" duration-ms="47" started-at="2019-08-06T10:54:07Z" finished-at="2019-08-06T10:54:07Z">
+    <groups>
+    </groups>
+    <test name="pomtestng" duration-ms="47" started-at="2019-08-06T10:54:07Z" finished-at="2019-08-06T10:54:07Z">
+      <class name="maven1.maventestNGclass">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:maven1.maventestNGclass@6bf256fa]" name="tc1" duration-ms="0" started-at="2019-08-06T10:54:07Z" finished-at="2019-08-06T10:54:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- maven1.maventestNGclass -->
+    </test> <!-- pomtestng -->
+  </suite> <!-- Suitepomtestng -->
+</testng-results>

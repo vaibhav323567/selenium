@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suitewebdriver" duration-ms="9660" started-at="2019-08-06T11:38:45Z" finished-at="2019-08-06T11:38:55Z">
+    <groups>
+    </groups>
+    <test name="mavendrivertest" duration-ms="9660" started-at="2019-08-06T11:38:45Z" finished-at="2019-08-06T11:38:55Z">
+      <class name="mavenwebdriver.mavenwebtestclass">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:mavenwebdriver.mavenwebtestclass@3d8c7aca]" name="tc1" duration-ms="9624" started-at="2019-08-06T11:38:45Z" finished-at="2019-08-06T11:38:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- mavenwebdriver.mavenwebtestclass -->
+    </test> <!-- mavendrivertest -->
+  </suite> <!-- Suitewebdriver -->
+</testng-results>
